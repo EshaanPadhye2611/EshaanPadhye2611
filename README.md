@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 <h1 align="center">Hi 👋, I'm Eshaan Padhye</h1>
 <h3 align="center">A passionate Web Developer Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
