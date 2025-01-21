@@ -54,6 +54,10 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%2327338E.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![bcrypt.js](https://img.shields.io/badge/bcrypt.js-%234D3B69.svg?style=for-the-badge&logo=npm&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-%234CAF50.svg?style=for-the-badge&logo=api&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%2300B0FF.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-%2300A4CC.svg?style=for-the-badge&logo=oauth&logoColor=white)
 
 
 ### ✍️ Random Dev Quote
