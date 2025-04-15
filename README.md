@@ -62,6 +62,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![OnRender](https://img.shields.io/badge/OnRender-%23000000.svg?style=for-the-badge&logo=onrender&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-%23000000.svg?style=for-the-badge&logo=gen-ai&logoColor=white)
+
+
 
 
 
